@@ -2,7 +2,7 @@
 //  HomeView.swift
 //  Leodoro
 //
-//  Created by Sarah Steininger on 01.09.25.
+//  Created by Clemens Pühringer on 15.09.26.
 //
 
 import SwiftUI

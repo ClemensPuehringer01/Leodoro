@@ -2,7 +2,7 @@
 //  InfoView.swift
 //  Leodoro
 //
-//  Created by Sarah Steininger on 01.09.25.
+//  Created by Pühringer Clemens on 20.10.26
 //
 
 import SwiftUI
